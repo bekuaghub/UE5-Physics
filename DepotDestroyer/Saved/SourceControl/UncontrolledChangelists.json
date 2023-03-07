@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Admin/Documents/Unreal Projects/UE-Physics/UE5-Physics/DepotDestroyer/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/UE-Physics/UE5-Physics/DepotDestroyer/Content/StarterContent/Maps/MapsChanged/Advanced_Lighting1.umap",
+				"C:/Users/Admin/Documents/Unreal Projects/UE-Physics/UE5-Physics/DepotDestroyer/Content/StarterContent/Maps/MapsChanged/Minimal_Default_2.umap",
+				"C:/Users/Admin/Documents/Unreal Projects/UE-Physics/UE5-Physics/DepotDestroyer/Content/StarterContent/Maps/MapsChanged/StarterMap_2.umap",
+				"C:/Users/Admin/Documents/Unreal Projects/UE-Physics/UE5-Physics/DepotDestroyer/Content/BP_Projectile.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/UE-Physics/UE5-Physics/DepotDestroyer/Content/DepotDestroyer_v01.umap",
+				"C:/Users/Admin/Documents/Unreal Projects/UE-Physics/UE5-Physics/DepotDestroyer/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/UE-Physics/UE5-Physics/DepotDestroyer/Content/SM_Barrel01_BP.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/UE-Physics/UE5-Physics/DepotDestroyer/Content/BP_Barrel01.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/UE-Physics/UE5-Physics/DepotDestroyer/Content/StarterContent/Maps/MapsChanged/BP_Projectile.uasset"
+			]
+		}
+	]
+}
